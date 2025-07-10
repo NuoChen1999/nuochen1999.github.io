@@ -12,7 +12,7 @@ I am Nuo Chen (陈诺), a first-year PhD candidate of Mechanical Engineering at 
 # Education Experiences
 <div style="width:100%; max-width:700px; display:table;line-height: 1.6;">
   <div style="display:table-cell; vertical-align:middle; width:200px;">
-    <img src="/images/dal-logo.png" alt="Dal Logo" style="max-width:100px; height:auto;">
+    <img src="/images/dal-logo.png" alt="Dal Logo" style="max-width:80px; height:auto;">
   </div>
   <div style="display:table-cell; vertical-align:middle;">
     <div style="font-weight: bold; font-size: 1.2em;">Dalhousie University</div>
@@ -24,7 +24,7 @@ I am Nuo Chen (陈诺), a first-year PhD candidate of Mechanical Engineering at 
 
 <div style="width:100%; max-width:700px; display:table;line-height: 1.6;">
   <div style="display:table-cell; vertical-align:middle; width:200px;">
-    <img src="/images/dal-logo.png" alt="Dal Logo" style="max-width:100px; height:auto;">
+    <img src="/images/dal-logo.png" alt="Dal Logo" style="max-width:80px; height:auto;">
   </div>
   <div style="display:table-cell; vertical-align:middle;">
     <div style="font-weight: bold; font-size: 1.2em;">Dalhousie University</div>
@@ -36,7 +36,7 @@ I am Nuo Chen (陈诺), a first-year PhD candidate of Mechanical Engineering at 
 
 <div style="width:100%; max-width:700px; display:table;line-height: 1.6;">
   <div style="display:table-cell; vertical-align:middle; width:250px;">
-    <img src="/images/sustech-logo.png" alt="SUSTech Logo" style="max-width:160px; height:auto;">
+    <img src="/images/sustech-logo.png" alt="SUSTech Logo" style="max-width:200px; height:auto;">
   </div>
   <div style="display:table-cell; vertical-align:middle;">
     <div style="font-weight: bold; font-size: 1.2em;">Southern University of Science and Technology</div>
@@ -47,9 +47,9 @@ I am Nuo Chen (陈诺), a first-year PhD candidate of Mechanical Engineering at 
 </div>
 
 # Honors and Awards
-2024 Roland E. Gagne Scholarship, Dalhousie, Canada
+- Roland E. Gagne Scholarship, Dalhousie, Canada, 2024
 
-2022 Nova Scotia Graduate Scholarship, Nova Scotia, Canada
+- Nova Scotia Graduate Scholarship, Nova Scotia, Canada, 2022
 
-2021 The First Class of the Merit Student Scholarship, SUSTech, P.R.China
+- The First Class of the Merit Student Scholarship, SUSTech, P.R.China, 2021
 
