@@ -7,8 +7,8 @@ author_profile: true
 
 ## Journal Papers
 
-- **Chen, N.**, Smith, J. (2024). *Robust NMPC for Sailboats under Stochastic Wind*. _IEEE Transactions on Robotics_.  
-  [PDF](https://arxiv.org/pdf/xxxx.xxxx) · [BibTeX](#)
+- **Robust and Adaptive Dexterous Manipulation With Vision-Based Learning From Multiple Demonstrations**
+  **<ins>N. Chen</ins>**, L. Wan and Y. -J. Pan
 
 - **Chen, N.** (2023). *Meta-learning Compensation for Robot Control*. _ICRA 2023_.  
   [PDF](https://arxiv.org/pdf/yyyy.yyyy) · [Code](https://github.com/yourname/code)
