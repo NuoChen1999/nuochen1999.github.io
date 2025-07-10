@@ -11,11 +11,11 @@ I am Nuo Chen (陈诺), a first-year PhD candidate of Mechanical Engineering at 
 
 # Education
 <div style="width:100%; max-width:700px; display:table;">
-  <div style="display:table-cell; vertical-align:middle; width:120px;">
-    <img src="/images/dal-logo.png" alt="Dal Logo" style="max-width:100px;">
+  <div style="display:table-cell; vertical-align:middle; width:200px;">
+    <img src="/images/dal-logo.png" alt="Dal Logo" style="max-width:160px; height:auto;">
   </div>
-  <div style="display:table-cell; vertical-align:middle; padding-left:20px;">
-    <div style="font-weight: bold; font-size: 1.1em;">Dalhousie University</div>
+  <div style="display:table-cell; vertical-align:middle;">
+    <div style="font-weight: bold; font-size: 1.2em;">Dalhousie University</div>
     <div>2024.09 – present</div>
     <div>Mechanical Engineering</div>
     <div>Ph.D. Candidate</div>
@@ -23,7 +23,7 @@ I am Nuo Chen (陈诺), a first-year PhD candidate of Mechanical Engineering at 
 </div>
 
 <div style="width:100%; max-width:700px; display:table;">
-  <div style="display:table-cell; vertical-align:middle; padding-right:20px;">
+  <div style="display:table-cell; vertical-align:middle; width:200px;">
     <img src="/images/dal-logo.png" alt="Dal Logo" style="max-width:160px; height:auto;">
   </div>
   <div style="display:table-cell; vertical-align:middle;">
@@ -35,11 +35,11 @@ I am Nuo Chen (陈诺), a first-year PhD candidate of Mechanical Engineering at 
 </div>
 
 <div style="width:100%; max-width:700px; display:table;">
-  <div style="display:table-cell; vertical-align:middle; width:120px;">
-    <img src="/images/sustech-logo.png" alt="SUSTech Logo" style="max-width:100px;">
+  <div style="display:table-cell; vertical-align:middle; width:200px;">
+    <img src="/images/sustech-logo.png" alt="SUSTech Logo" style="max-width:160px; height:auto;">
   </div>
-  <div style="display:table-cell; vertical-align:middle; padding-left:20px;">
-    <div style="font-weight: bold; font-size: 1.1em;">Southern University of Science and Technology</div>
+  <div style="display:table-cell; vertical-align:middle;">
+    <div style="font-weight: bold; font-size: 1.2em;">Southern University of Science and Technology</div>
     <div>2018.09 - 2022.07</div>
     <div>Robotics Engineering</div>
     <div>Bachelor of Engineering</div>
