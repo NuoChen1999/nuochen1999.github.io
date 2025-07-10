@@ -13,10 +13,17 @@ author_profile: true
 
   IEEE Transactions on Industrial Electronics, 2025
 
-- **Chen, N.** (2023). *Meta-learning Compensation for Robot Control*. _ICRA 2023_.  
-  [PDF](https://arxiv.org/pdf/yyyy.yyyy) · [Code](https://github.com/yourname/code)
 
 ## Conference Papers
 
-- **Chen, N.**, Wang, L. (2022). *Reinforcement Learning Meets Impedance Control*. _ICRA_.  
-  [PDF](#) · [Video](#)
+- **Haptic Robotic Hand Design and Control with Neural-Network Based System Identification**
+  
+  **<ins>N. Chen</ins>** and Y. -J. Pan
+
+  Proceedings of the 2025 CSME International Congress of Canadian Mechanical Engineering
+
+- **Vision-Based Dexterous Motion Planning by Dynamic Movement Primitives with Human Hand Demonstration**
+  
+  **<ins>N. Chen</ins>** and Y. -J. Pan
+
+  2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)
