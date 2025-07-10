@@ -38,3 +38,8 @@ I am Nuo Chen (陈诺), a first-year PhD candidate of Mechanical Engineering at 
   </div>
 </div>
 
+# Honor
+2024 Roland E. Gagne Scholarship, Dalhousie, Canada
+2022 Nova Scotia Graduate Scholarship, Nova Scotia, Canada
+2021 The First Class of the Merit Student Scholarship, SUSTech, P.R.China
+
