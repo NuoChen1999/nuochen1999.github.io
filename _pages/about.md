@@ -12,29 +12,37 @@ I am Nuo Chen (陈诺), a first-year PhD candidate of Mechanical Engineering at 
 # Education
 <div style="width:100%; max-width:700px; display:table;">
   <div style="display:table-cell; vertical-align:middle; width:120px;">
-    <img src="/images/site-logo.png" alt="NUS Logo" style="max-width:100px;">
+    <img src="/images/dal-logo.png" alt="Dal Logo" style="max-width:100px;">
   </div>
   <div style="display:table-cell; vertical-align:middle; padding-left:20px;">
-    <div style="font-weight: bold; font-size: 1.1em;">National University of Singapore</div>
-    <div>2024.8 – present</div>
-    <div>School of Computing</div>
-    <div>Ph.D. Student</div>
+    <div style="font-weight: bold; font-size: 1.1em;">Dalhousie University</div>
+    <div>2024.09 – present</div>
+    <div>Mechanical Engineering</div>
+    <div>Ph.D. Candidate</div>
   </div>
 </div>
 
+<div style="width:100%; max-width:700px; display:table;">
+  <div style="display:table-cell; vertical-align:middle; width:120px;">
+    <img src="/images/dal-logo.png" alt="Dal Logo" style="max-width:100px;">
+  </div>
+  <div style="display:table-cell; vertical-align:middle; padding-left:20px;">
+    <div style="font-weight: bold; font-size: 1.1em;">Dalhousie University</div>
+    <div>2022.09 – 2024.08</div>
+    <div>Mechanical Engineering</div>
+    <div>Master of Applied Science</div>
+  </div>
+</div>
 
+<div style="width:100%; max-width:700px; display:table;">
+  <div style="display:table-cell; vertical-align:middle; width:120px;">
+    <img src="/images/sustech-logo.png" alt="SUSTech Logo" style="max-width:100px;">
+  </div>
+  <div style="display:table-cell; vertical-align:middle; padding-left:20px;">
+    <div style="font-weight: bold; font-size: 1.1em;">Southern University of Science and Technology</div>
+    <div>22018.09 - 2022.07</div>
+    <div>Robotics Engineering</div>
+    <div>Bachelor of Engineering</div>
+  </div>
+</div>
 
-Dalhousie University
-
-2024.09 - now
-Ph.D candidate
-
-Dalhousie University
-
-2022.09 - 2024.08
-Master of Applied Science in Mechanical Engineering
-
-Southern University of Science and Technology
-
-2018.09 - 2022.07
-Bachelor of Engineering in Robotics Engineering
