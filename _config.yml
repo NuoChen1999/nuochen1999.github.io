@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "site-logo.png"
   name             : "Nuo Chen"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate"
