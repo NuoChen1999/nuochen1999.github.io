@@ -12,7 +12,7 @@ I am Nuo Chen (陈诺), a first-year PhD candidate of Mechanical Engineering at 
 # Education
 <div style="width:100%; max-width:700px; display:table;">
   <div style="display:table-cell; vertical-align:middle; width:120px;">
-    <img src="/images/me.png" alt="NUS Logo" style="max-width:100px;">
+    <img src="/images/me.jpg" alt="NUS Logo" style="max-width:100px;">
   </div>
   <div style="display:table-cell; vertical-align:middle; padding-left:20px;">
     <div style="font-weight: bold; font-size: 1.1em;">National University of Singapore</div>
