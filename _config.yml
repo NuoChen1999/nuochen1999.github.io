@@ -23,10 +23,10 @@ repository               : "nuochen1999/nuochen1999.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.jpg"
+  avatar           : "me.png"
   name             : "Nuo Chen"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate"
+  bio              : "First-Year PhD Candidate"
   location         : "Halifax, Canada"
   employer         : "Dalhousie University"
   uri              : # URL
