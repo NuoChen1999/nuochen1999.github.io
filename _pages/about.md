@@ -9,8 +9,8 @@ redirect_from:
 
 I am Nuo Chen (陈诺), a first-year PhD candidate of Mechanical Engineering at Dalhousie University, where I work on robotics control and machine learning with professor [Ya-Jun Pan](http://acm.me.dal.ca/). Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanical Engineering and B.Eng degree from Southern University of Science and Technology (SUSTech) in Robotics Engineering, advised by professor [Chenglong Fu](https://www.sustech.edu.cn/en/faculties/fuchenglong.html).
 
-# Education
-<div style="width:100%; max-width:700px; display:table;">
+# Education Experiences
+<div style="width:100%; max-width:700px; display:table;line-height: 1.6;">
   <div style="display:table-cell; vertical-align:middle; width:200px;">
     <img src="/images/dal-logo.png" alt="Dal Logo" style="max-width:160px; height:auto;">
   </div>
@@ -22,7 +22,7 @@ I am Nuo Chen (陈诺), a first-year PhD candidate of Mechanical Engineering at 
   </div>
 </div>
 
-<div style="width:100%; max-width:700px; display:table;">
+<div style="width:100%; max-width:700px; display:table;line-height: 1.6;">
   <div style="display:table-cell; vertical-align:middle; width:200px;">
     <img src="/images/dal-logo.png" alt="Dal Logo" style="max-width:160px; height:auto;">
   </div>
@@ -34,7 +34,7 @@ I am Nuo Chen (陈诺), a first-year PhD candidate of Mechanical Engineering at 
   </div>
 </div>
 
-<div style="width:100%; max-width:700px; display:table;">
+<div style="width:100%; max-width:700px; display:table;line-height: 1.6;">
   <div style="display:table-cell; vertical-align:middle; width:200px;">
     <img src="/images/sustech-logo.png" alt="SUSTech Logo" style="max-width:160px; height:auto;">
   </div>
@@ -46,7 +46,7 @@ I am Nuo Chen (陈诺), a first-year PhD candidate of Mechanical Engineering at 
   </div>
 </div>
 
-# Honor
+# Honors and Awards
 2024 Roland E. Gagne Scholarship, Dalhousie, Canada
 
 2022 Nova Scotia Graduate Scholarship, Nova Scotia, Canada
