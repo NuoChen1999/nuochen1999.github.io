@@ -23,7 +23,7 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
   <div style="display:table-cell; vertical-align:middle;">
     <div style="font-weight: bold; font-size: 1.2em;">Dalhousie University</div>
     <div>2024.09 – present</div>
-    <div>Ph.D. Candidate, Mechanical Engineering</div>
+    <div>Doctor of Philosophy, Mechanical Engineering</div>
   </div>
 </div>
 
