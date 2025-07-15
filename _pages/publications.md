@@ -26,7 +26,7 @@ author_profile: true
   
   **N. Chen** and Y. -J. Pan
 
-  2025 International Congress of Canadian Mechanical Engineering (CSME)
+  2025 International Congress of Canadian Society of Mechanical Engineering (CSME)
 
 - **Vision-Based Dexterous Motion Planning by Dynamic Movement Primitives with Human Hand Demonstration**
   
@@ -38,7 +38,7 @@ author_profile: true
   
   **N. Chen**, L. Wan, Q.G. Chen and Y. -J. Pan
 
-  2023 International Congress of Canadian Mechanical Engineering (CSME)
+  2023 International Congress of Canadian Society of Mechanical Engineering (CSME)
 
 - **Research on the human-following method, fall gesture recognition, and protection method for the walking-aid cane robot**
   
