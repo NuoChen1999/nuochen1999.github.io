@@ -5,6 +5,8 @@ title: "Publications"
 author_profile: true
 ---
 
+<p>The full list of publications is available on <a href="https://scholar.google.ca/citations?user=LAkiYFAAAAAJ&hl=en" style="text-decoration: none; color: inherit;">Google Scholar</a>.</p>
+
 ## Journal Papers
 
 - **Robust and Adaptive Dexterous Manipulation With Vision-Based Learning From Multiple Demonstrations**
