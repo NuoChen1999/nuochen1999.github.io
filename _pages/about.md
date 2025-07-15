@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>
+<p style="text-align: justify;">
 I'm Nuo Chen (陈诺), a first-year Ph.D. candidate of Mechanical Engineering at Dalhousie University, where I work on robotics control and machine learning with Professor 
 <a href="http://acm.me.dal.ca/" style="color: inherit; text-decoration: none;">Ya-Jun Pan</a>. 
 Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanical Engineering and B.Eng degree from Southern University of Science and Technology in Robotics Engineering, advised by Professor 
@@ -42,7 +42,7 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
 <!-- SUSTech -->
 <div style="width:100%; max-width:700px; display:table; line-height: 1.6;">
   <div style="display:table-cell; width:120px; text-align:center; vertical-align:middle;">
-    <img src="/images/sustech-logo.png" alt="SUSTech Logo" style="max-height:90px; max-width:100px; height:auto; width:auto;">
+    <img src="/images/sustech-logo.png" alt="SUSTech Logo" style="max-height:100px; height:auto; width:auto;">
   </div>
   <div style="display:table-cell; vertical-align:middle;">
     <div style="font-weight: bold; font-size: 1.2em;">Southern University of Science and Technology</div>
