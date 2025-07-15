@@ -52,7 +52,7 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
 </div>
 
 ## Honors and Awards
-- Roland E. Gagne Scholarship, Dalhousie, Canada, 2024 & 2025
+- Roland E. Gagne Scholarship, Dalhousie University, Canada, 2024 & 2025
 
 - Nova Scotia Graduate Scholarship, Nova Scotia, Canada, 2022
 
