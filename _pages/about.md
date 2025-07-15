@@ -37,7 +37,7 @@ I'm Nuo Chen (陈诺), a first-year Ph.D. candidate of Mechanical Engineering at
 <!-- SUSTech -->
 <div style="width:100%; max-width:700px; display:table; line-height: 1.6;">
   <div style="display:table-cell; width:120px; text-align:center; vertical-align:middle;">
-    <img src="/images/sustech-logo.png" alt="SUSTech Logo" style="height:80px;">
+    <img src="/images/sustech-logo.png" alt="SUSTech Logo" style="max-height:90px; max-width:100px; height:auto; width:auto;">
   </div>
   <div style="display:table-cell; vertical-align:middle;">
     <div style="font-weight: bold; font-size: 1.2em;">Southern University of Science and Technology</div>
