@@ -14,7 +14,7 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
 <a href="https://www.sustech.edu.cn/en/faculties/fuchenglong.html" style="color: inherit; text-decoration: none;">Chenglong Fu</a>.
 </p>
 
-# Education Experiences
+## Education Experiences
 <!-- Dalhousie PhD -->
 <div style="width:100%; max-width:700px; display:table; line-height: 1.6; margin-bottom: 10px;">
   <div style="display:table-cell; width:120px; text-align:center; vertical-align:middle;">
@@ -51,10 +51,26 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
   </div>
 </div>
 
-# Honors and Awards
+## Honors and Awards
 - Roland E. Gagne Scholarship, Dalhousie, Canada, 2024 & 2025
 
 - Nova Scotia Graduate Scholarship, Nova Scotia, Canada, 2022
 
 - The First Class of the Merit Student Scholarship, SUSTech, P.R.China, 2021
 
+## Academic Service
+### Journal Reviewer
+- IEEE Transactions on Industrial Informatics (TII)
+  
+- IEEE Transactions on Industrial Electronics (TIE)
+  
+- IEEE Transactions on Cognitive and Developmental Systems (TCDS)
+
+### Conference Reviewer
+- American Control Conference (ACC)
+  
+- Conference on Decision and Control (CDC)
+  
+- Annual Conference of the IEEE Industrial Electronics Society (IECON)
+  
+- International Conference on Industrial Cyber-Physical Systems (ICPS)
