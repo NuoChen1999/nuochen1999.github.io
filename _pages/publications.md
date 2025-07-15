@@ -8,7 +8,6 @@ author_profile: true
 <p>A full publication list is available on <a href="https://scholar.google.ca/citations?user=LAkiYFAAAAAJ&hl=en" style="text-decoration: none; color: inherit;">Google Scholar</a>.</p>
 
 ## Journal Papers
-
 - **Robust and Adaptive Dexterous Manipulation With Vision-Based Learning From Multiple Demonstrations**
   
   **N. Chen**, L. Wan and Y. -J. Pan
@@ -17,7 +16,6 @@ author_profile: true
 
 
 ## Conference Papers
-
 - **Model-Agnostic Meta-Learning Inspired Adaptive Control Framework for Unknown Payload Picking**
   
   **N. Chen** and Y. -J. Pan
