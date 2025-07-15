@@ -74,3 +74,8 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
 - Annual Conference of the IEEE Industrial Electronics Society (IECON)
   
 - International Conference on Industrial Cyber-Physical Systems (ICPS)
+
+### Treasurer
+- IEEE Industrial Electronics Society (IES) Chapter at Canadian Atlantic Section
+  
+- IEEE Industrial Electronics Society (IES) Student Branch Chapter at Dalhousie University
