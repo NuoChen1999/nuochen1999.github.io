@@ -22,7 +22,7 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
   </div>
   <div style="display:table-cell; vertical-align:middle;">
     <div style="font-weight: bold; font-size: 1.2em;">Dalhousie University</div>
-    <div>2024.09 – present</div>
+    <div>2024.09 - present</div>
     <div>Doctor of Philosophy, Mechanical Engineering</div>
   </div>
 </div>
@@ -34,7 +34,7 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
   </div>
   <div style="display:table-cell; vertical-align:middle;">
     <div style="font-weight: bold; font-size: 1.2em;">Dalhousie University</div>
-    <div>2022.09 – 2024.08</div>
+    <div>2022.09 - 2024.08</div>
     <div>Master of Applied Science, Mechanical Engineering</div>
   </div>
 </div>
@@ -42,7 +42,7 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
 <!-- SUSTech -->
 <div style="width:100%; max-width:700px; display:table; line-height: 1.6;">
   <div style="display:table-cell; width:120px; text-align:center; vertical-align:middle;">
-    <img src="/images/sustech-logo.png" alt="SUSTech Logo" style="max-height:100px; height:auto; width:auto;">
+    <img src="/images/sustech-logo.png" alt="SUSTech Logo" style="max-height:110px; height:auto; width:auto;">
   </div>
   <div style="display:table-cell; vertical-align:middle;">
     <div style="font-weight: bold; font-size: 1.2em;">Southern University of Science and Technology</div>
