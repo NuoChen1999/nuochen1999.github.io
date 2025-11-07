@@ -19,7 +19,7 @@ author_profile: true
 
 ## Conference Papers
 - <p style="line-height: 1.2; margin: 0;">
-      <a href="https://ieeexplore.ieee.org/document/10774182"
+      <a href="https://ieeexplore.ieee.org/document/11221857"
          style="text-decoration: none; color: inherit; font-weight: bold;">
         Model-Agnostic Meta-Learning Inspired Adaptive Control Framework for Unknown Payload Picking
       </a><br>
