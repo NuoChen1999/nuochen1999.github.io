@@ -19,33 +19,48 @@ author_profile: true
 
 
 ## Conference Papers
-- **Model-Agnostic Meta-Learning Inspired Adaptive Control Framework for Unknown Payload Picking**
+- <p style="line-height: 1.2; margin: 0;">
+      <a href="https://ieeexplore.ieee.org/document/10774182"
+         style="text-decoration: none; color: inherit; font-weight: bold;">
+        Model-Agnostic Meta-Learning Inspired Adaptive Control Framework for Unknown Payload Picking
+      </a><br>
+      <u><strong>N. Chen</strong></u> and Y. -J. Pan*<br>
+      <em>2025 IEEE 51st Annual Conference of the IEEE Industrial Electronics Society (IECON)</em>
+  </p>
   
-  **N. Chen** and Y. -J. Pan
-
-  2025 IEEE 51st Annual Conference of the IEEE Industrial Electronics Society (IECON)
-
-- **Haptic Robotic Hand Design and Control with Neural-Network Based System Identification**
+- <p style="line-height: 1.2; margin: 0;">
+      <a href="https://ieeexplore.ieee.org/document/10774182"
+         style="text-decoration: none; color: inherit; font-weight: bold;">
+        Haptic Robotic Hand Design and Control with Neural-Network Based System Identification
+      </a><br>
+      <u><strong>N. Chen</strong></u> and Y. -J. Pan*<br>
+      <em>2025 International Congress of Canadian Society of Mechanical Engineering (CSME)</em>
+  </p>
   
-  **N. Chen** and Y. -J. Pan
-
-  2025 International Congress of Canadian Society of Mechanical Engineering (CSME)
-
-- **Vision-Based Dexterous Motion Planning by Dynamic Movement Primitives with Human Hand Demonstration**
+- <p style="line-height: 1.2; margin: 0;">
+      <a href="https://ieeexplore.ieee.org/document/10774182"
+         style="text-decoration: none; color: inherit; font-weight: bold;">
+        Vision-Based Dexterous Motion Planning by Dynamic Movement Primitives with Human Hand Demonstration
+      </a><br>
+      <u><strong>N. Chen</strong></u> and Y. -J. Pan*<br>
+      <em>2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)</em>
+  </p>
   
-  **N. Chen** and Y. -J. Pan
-
-  2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)
-
-- **Real Time Vision-based Human Hand Motion Tracking and Grasping for a Robotic Manipulator with Soft Hand**
+  - <p style="line-height: 1.2; margin: 0;">
+      <a href="https://ieeexplore.ieee.org/document/10774182"
+         style="text-decoration: none; color: inherit; font-weight: bold;">
+       Real Time Vision-based Human Hand Motion Tracking and Grasping for a Robotic Manipulator with Soft Hand
+      </a><br>
+      <u><strong>N. Chen</strong></u>, L. Wan, Q.G. Chen and Y. -J. Pan*<br>
+      <em>2023 International Congress of Canadian Society of Mechanical Engineering (CSME)</em>
+  </p>
   
-  **N. Chen**, L. Wan, Q.G. Chen and Y. -J. Pan
-
-  2023 International Congress of Canadian Society of Mechanical Engineering (CSME)
-
-- **Research on the human-following method, fall gesture recognition, and protection method for the walking-aid cane robot**
-  
-  **N. Chen**, X. Chen, C. Chen, Y. Leng and C. Fu
-
-  2022 IEEE International Conference on Cyborg and Bionic Systems (CBS)
+  - <p style="line-height: 1.2; margin: 0;">
+      <a href="https://ieeexplore.ieee.org/document/10774182"
+         style="text-decoration: none; color: inherit; font-weight: bold;">
+        Research on the human-following method, fall gesture recognition, and protection method for the walking-aid cane robot
+      </a><br>
+      <u><strong>N. Chen</strong></u>, X. Chen, C. Chen, Y. Leng and C. Fu*<br>
+      <em>2022 IEEE International Conference on Cyborg and Bionic Systems (CBS)</em>
+  </p>
 
