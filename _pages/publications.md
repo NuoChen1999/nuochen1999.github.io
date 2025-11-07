@@ -4,7 +4,6 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
-
 <p>A full publication list is available on <a href="https://scholar.google.ca/citations?user=LAkiYFAAAAAJ&hl=en" style="text-decoration: none; color: inherit;">Google Scholar</a>.</p>
 
 ## Journal Papers
@@ -29,7 +28,7 @@ author_profile: true
   </p>
   
 - <p style="line-height: 1.2; margin: 0;">
-      <a href="https://ieeexplore.ieee.org/document/10774182"
+      <a href="https://www.researchgate.net/publication/394010825_Haptic_Robotic_Hand_Design_and_Control_with_Neural-Network_Based_System_Identification"
          style="text-decoration: none; color: inherit; font-weight: bold;">
         Haptic Robotic Hand Design and Control with Neural-Network Based System Identification
       </a><br>
@@ -38,16 +37,16 @@ author_profile: true
   </p>
   
 - <p style="line-height: 1.2; margin: 0;">
-      <a href="https://ieeexplore.ieee.org/document/10774182"
+      <a href="https://ieeexplore.ieee.org/document/10595749"
          style="text-decoration: none; color: inherit; font-weight: bold;">
         Vision-Based Dexterous Motion Planning by Dynamic Movement Primitives with Human Hand Demonstration
       </a><br>
       <u><strong>N. Chen</strong></u> and Y. -J. Pan*<br>
       <em>2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)</em>
   </p>
-  
-  - <p style="line-height: 1.2; margin: 0;">
-      <a href="https://ieeexplore.ieee.org/document/10774182"
+
+- <p style="line-height: 1.2; margin: 0;">
+      <a href="https://usherbrooke.scholaris.ca/items/323aacca-fe55-4968-9385-b506ee9bcbd1"
          style="text-decoration: none; color: inherit; font-weight: bold;">
        Real Time Vision-based Human Hand Motion Tracking and Grasping for a Robotic Manipulator with Soft Hand
       </a><br>
@@ -55,8 +54,8 @@ author_profile: true
       <em>2023 International Congress of Canadian Society of Mechanical Engineering (CSME)</em>
   </p>
   
-  - <p style="line-height: 1.2; margin: 0;">
-      <a href="https://ieeexplore.ieee.org/document/10774182"
+- <p style="line-height: 1.2; margin: 0;">
+      <a href="https://ieeexplore.ieee.org/document/10115357"
          style="text-decoration: none; color: inherit; font-weight: bold;">
         Research on the human-following method, fall gesture recognition, and protection method for the walking-aid cane robot
       </a><br>
