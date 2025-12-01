@@ -4,7 +4,7 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
-<p>A full publication list is available on <a href="https://scholar.google.ca/citations?user=LAkiYFAAAAAJ&hl=en" style="text-decoration: none; color: inherit;">Google Scholar</a>.</p>
+<p>† denotes the corresponding author. Only publications where I am the first author are included here. Full publication list is available on <a href="https://scholar.google.ca/citations?user=LAkiYFAAAAAJ&hl=en" style="text-decoration: none; color: inherit;">Google Scholar</a>.</p>
 
 ## Journal Papers
 - <p style="line-height: 1.2; margin: 0;">
@@ -23,7 +23,7 @@ author_profile: true
          style="text-decoration: none; color: inherit; font-weight: bold;">
         Model-Agnostic Meta-Learning Inspired Adaptive Control Framework for Unknown Payload Picking
       </a><br>
-      <u><strong>N. Chen</strong></u> and Y. -J. Pan*<br>
+      <u><strong>N. Chen</strong></u> and Y. -J. Pan<sup>†</sup><br>
       <em>2025 IEEE 51st Annual Conference of the IEEE Industrial Electronics Society (IECON)</em>
   </p>
   
@@ -32,7 +32,7 @@ author_profile: true
          style="text-decoration: none; color: inherit; font-weight: bold;">
         Haptic Robotic Hand Design and Control with Neural-Network Based System Identification
       </a><br>
-      <u><strong>N. Chen</strong></u> and Y. -J. Pan*<br>
+      <u><strong>N. Chen</strong></u> and Y. -J. Pan<sup>†</sup><br>
       <em>2025 International Congress of Canadian Society of Mechanical Engineering (CSME)</em>
   </p>
   
@@ -41,7 +41,7 @@ author_profile: true
          style="text-decoration: none; color: inherit; font-weight: bold;">
         Vision-Based Dexterous Motion Planning by Dynamic Movement Primitives with Human Hand Demonstration
       </a><br>
-      <u><strong>N. Chen</strong></u> and Y. -J. Pan*<br>
+      <u><strong>N. Chen</strong></u> and Y. -J. Pan<sup>†</sup><br>
       <em>2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)</em>
   </p>
 
@@ -50,7 +50,7 @@ author_profile: true
          style="text-decoration: none; color: inherit; font-weight: bold;">
        Real Time Vision-based Human Hand Motion Tracking and Grasping for a Robotic Manipulator with Soft Hand
       </a><br>
-      <u><strong>N. Chen</strong></u>, L. Wan, Q.G. Chen and Y. -J. Pan*<br>
+      <u><strong>N. Chen</strong></u>, L. Wan, Q.G. Chen and Y. -J. Pan<sup>†</sup><br>
       <em>2023 International Congress of Canadian Society of Mechanical Engineering (CSME)</em>
   </p>
   
@@ -59,7 +59,7 @@ author_profile: true
          style="text-decoration: none; color: inherit; font-weight: bold;">
         Research on the human-following method, fall gesture recognition, and protection method for the walking-aid cane robot
       </a><br>
-      <u><strong>N. Chen</strong></u>, X. Chen, C. Chen, Y. Leng and C. Fu*<br>
+      <u><strong>N. Chen</strong></u>, X. Chen, C. Chen, Y. Leng and C. Fu<sup>†</sup><br>
       <em>2022 IEEE International Conference on Cyborg and Bionic Systems (CBS)</em>
   </p>
 
