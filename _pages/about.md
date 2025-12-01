@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I'm Nuo Chen (陈诺), a second-year Ph.D. candidate of Mechanical Engineering at Dalhousie University, where I work on robotics control and machine learning with Professor 
+I'm Nuo Chen (陈诺), a second-year Ph.D. student of Mechanical Engineering at Dalhousie University, where I work on robotics control and machine learning with Professor 
 <a href="http://acm.me.dal.ca/" style="color: inherit; text-decoration: none;">Ya-Jun Pan</a>. 
 Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanical Engineering and B.Eng degree from Southern University of Science and Technology in Robotics Engineering, advised by Professor 
 <a href="https://www.sustech.edu.cn/en/faculties/fuchenglong.html" style="color: inherit; text-decoration: none;">Chenglong Fu</a>.
@@ -82,10 +82,10 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
   
 - IEEE Industrial Electronics Society (IES) Student Branch Chapter at Dalhousie University
 
-## 📍 My Locations Map
+## My Footprint
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 20px;">
   <iframe 
-    src="https://www.google.com/maps/d/u/0/embed?mid=1CCrwMqOjRP27GkbI51z7hSaEk2VdpjE&ehbc=2E312F"
+    src="https://www.google.com/maps/d/embed?mid=1CCrwMqOjRP27GkbI51z7hSaEk2VdpjE&ehbc=2E312F"
     style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border:0;">
   </iframe>
 </div>
