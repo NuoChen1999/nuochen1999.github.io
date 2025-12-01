@@ -81,3 +81,11 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
 - IEEE Industrial Electronics Society (IES) Chapter at Canadian Atlantic Section
   
 - IEEE Industrial Electronics Society (IES) Student Branch Chapter at Dalhousie University
+
+## 📍 My Locations Map
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 20px;">
+  <iframe 
+    src="https://www.google.com/maps/d/u/0/embed?mid=1CCrwMqOjRP27GkbI51z7hSaEk2VdpjE&ehbc=2E312F"
+    style="position: absolute; top:0; left: 0; width: 100%; height: 100%; border:0;">
+  </iframe>
+</div>
