@@ -12,7 +12,7 @@ author_profile: true
          style="text-decoration: none; color: inherit; font-weight: bold;">
         Robust and Adaptive Dexterous Manipulation With Vision-Based Learning From Multiple Demonstrations
       </a><br>
-      <u><strong>N. Chen</strong></u>, L. Wan and Y. -J. Pan*<br>
+      <u><strong>N. Chen</strong></u>, L. Wan and Y. -J. Pan<sup>†</sup><br>
       <em>IEEE Transactions on Industrial Electronics</em>, 2025
   </p>
 
