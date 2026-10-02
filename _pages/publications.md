@@ -23,7 +23,7 @@ author_profile: true
          style="text-decoration: none; color: inherit;">
        Sensorless Neural-Network-Enhanced Momentum Observer Design and Interaction Force Control
       </a><br>
-      <u><strong>N. Chen</strong></u>, Y. -J. Pan and O. Toker<sup>†</sup><br>
+      <u><strong>N. Chen</strong></u>, Y. -J. Pan<sup>†</sup> and O. Toker<br>
       <em>2026 IEEE 35th International Symposium on Industrial Electronics (ISIE)</em>
   </p>
   
