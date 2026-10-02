@@ -65,7 +65,7 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
 </div>
 
 ## Honors and Awards
-- Bruce and Dorothy Rossetti Engineering Research Scholarship, Dalhousie University, Canada, 2026
+- Bruce and Dorothy Rossetti Scholarship, Dalhousie University, Canada, 2026
 
 - IES Students & Young Professionals Paper Assistance, IEEE, 2025
 
@@ -76,6 +76,15 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
 - The First Class of the Merit Student Scholarship, SUSTech, P.R.China, 2021
 
 ## Academic Service
+
+### Session Chair
+- IEEE Annual Conference of the IEEE Industrial Electronics Society (IECON)
+
+### Chapter Service 
+- Chair of IEEE Industrial Electronics Society (IES) Student Branch Chapter at Dalhousie University
+
+- Treasurer of IEEE Industrial Electronics Society Chapter at Canadian Atlantic Section
+
 ### Journal Reviewer
 - IEEE Transactions on Industrial Informatics (TII)
   
@@ -93,8 +102,6 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
 - American Control Conference (ACC)
   
 - Conference on Decision and Control (CDC)
-  
-- Annual Conference of the IEEE Industrial Electronics Society (IECON)
 
 - IEEE International Symposium on Industrial Electronics (ISIE)
 
@@ -102,9 +109,8 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
   
 - International Conference on Industrial Cyber-Physical Systems (ICPS)
 
+- Annual Conference of the IEEE Industrial Electronics Society (IECON)
+
 - IEEE International Conference on Responsible Artificial Intelligence (IRAI)
 
 - IEEE Industrial Electronics Society Annual On-Line Conference (ONCON)
-
-### Chair 
-- IEEE Industrial Electronics Society (IES) Student Branch Chapter at Dalhousie University
