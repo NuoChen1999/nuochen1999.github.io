@@ -4,7 +4,7 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
-<p>† denotes the corresponding author. Only publications where I am the first author are included here. Full publication list is available on <a href="https://scholar.google.ca/citations?user=LAkiYFAAAAAJ&hl=en" style="text-decoration: none; color: inherit;">Google Scholar</a>.</p>
+<p>† denotes the corresponding author. Full publication list is available on <a href="https://scholar.google.ca/citations?user=LAkiYFAAAAAJ&hl=en" style="text-decoration: none; color: inherit;">Google Scholar</a>.</p>
 
 ## Journal Papers
 - <p style="line-height: 1.2; margin: 0;">
@@ -12,7 +12,7 @@ author_profile: true
          style="text-decoration: none; color: inherit; font-weight: bold;">
         Robust and Adaptive Dexterous Manipulation With Vision-Based Learning From Multiple Demonstrations
       </a><br>
-      <u><strong>N. Chen</strong></u>, L. Wan and Y. -J. Pan<sup>†</sup><br>
+      <strong>N. Chen</strong>, L. Wan and Y. -J. Pan<sup>†</sup><br>
       <em>IEEE Transactions on Industrial Electronics</em>, 2025
   </p>
 
