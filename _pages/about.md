@@ -60,11 +60,13 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
   <div style="display:table-cell; vertical-align:middle;">
     <div style="font-weight:bold; font-size:1.2em;">University of Agder</div>
     <div>2026.08 - 2026.09</div>
-    <div>Visiting Researcher, Robotics and Intelligent Control</div>
+    <div>Visiting Researcher</div>
   </div>
 </div>
 
 ## Honors and Awards
+- Bruce and Dorothy Rossetti Engineering Research Scholarship, Dalhousie University, Canada, 2026
+
 - IES Students & Young Professionals Paper Assistance, IEEE, 2025
 
 - Roland E. Gagne Scholarship, Dalhousie University, Canada, 2024 & 2025
@@ -78,8 +80,14 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
 - IEEE Transactions on Industrial Informatics (TII)
   
 - IEEE Transactions on Industrial Electronics (TIE)
+
+- IEEE/ASME Transactions on Mechatronics (TMECH)
+
+- IEEE Transactions on Control of Network Systems (TCNS)
   
 - IEEE Transactions on Cognitive and Developmental Systems (TCDS)
+
+- Transactions of the Canadian Society for Mechanical Engineering (TCSME)
 
 ### Conference Reviewer
 - American Control Conference (ACC)
@@ -87,10 +95,16 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
 - Conference on Decision and Control (CDC)
   
 - Annual Conference of the IEEE Industrial Electronics Society (IECON)
+
+- IEEE International Symposium on Industrial Electronics (ISIE)
+
+- IEEE International Conference on Industrial Technology (ICIT)
   
 - International Conference on Industrial Cyber-Physical Systems (ICPS)
 
-### Treasurer
-- IEEE Industrial Electronics Society (IES) Chapter at Canadian Atlantic Section
-  
+- IEEE International Conference on Responsible Artificial Intelligence (IRAI)
+
+- IEEE Industrial Electronics Society Annual On-Line Conference (ONCON)
+
+### Chair 
 - IEEE Industrial Electronics Society (IES) Student Branch Chapter at Dalhousie University
