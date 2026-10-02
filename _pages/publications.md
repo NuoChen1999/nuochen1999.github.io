@@ -9,7 +9,7 @@ author_profile: true
 ## Journal Papers
 - <p style="line-height: 1.2; margin: 0;">
       <a href="https://ieeexplore.ieee.org/document/10774182"
-         style="text-decoration: none; color: inherit; font-weight: bold;">
+         style="text-decoration: none; color: inherit;">
         Robust and Adaptive Dexterous Manipulation With Vision-Based Learning From Multiple Demonstrations
       </a><br>
       <strong>N. Chen</strong>, L. Wan and Y. -J. Pan<sup>†</sup><br>
@@ -19,8 +19,17 @@ author_profile: true
 
 ## Conference Papers
 - <p style="line-height: 1.2; margin: 0;">
+      <a href=""
+         style="text-decoration: none; color: inherit;">
+       Sensorless Neural-Network-Enhanced Momentum Observer Design and Interaction Force Control
+      </a><br>
+      <u><strong>N. Chen</strong></u>, Y. -J. Pan and O. Toker<sup>†</sup><br>
+      <em>2026 IEEE 35th International Symposium on Industrial Electronics (ISIE)</em>
+  </p>
+  
+- <p style="line-height: 1.2; margin: 0;">
       <a href="https://ieeexplore.ieee.org/document/11221857"
-         style="text-decoration: none; color: inherit; font-weight: bold;">
+         style="text-decoration: none; color: inherit;">
         Model-Agnostic Meta-Learning Inspired Adaptive Control Framework for Unknown Payload Picking
       </a><br>
       <u><strong>N. Chen</strong></u> and Y. -J. Pan<sup>†</sup><br>
@@ -29,7 +38,7 @@ author_profile: true
   
 - <p style="line-height: 1.2; margin: 0;">
       <a href="https://www.researchgate.net/publication/394010825_Haptic_Robotic_Hand_Design_and_Control_with_Neural-Network_Based_System_Identification"
-         style="text-decoration: none; color: inherit; font-weight: bold;">
+         style="text-decoration: none; color: inherit;">
         Haptic Robotic Hand Design and Control with Neural-Network Based System Identification
       </a><br>
       <u><strong>N. Chen</strong></u> and Y. -J. Pan<sup>†</sup><br>
@@ -38,7 +47,7 @@ author_profile: true
   
 - <p style="line-height: 1.2; margin: 0;">
       <a href="https://ieeexplore.ieee.org/document/10595749"
-         style="text-decoration: none; color: inherit; font-weight: bold;">
+         style="text-decoration: none; color: inherit;">
         Vision-Based Dexterous Motion Planning by Dynamic Movement Primitives with Human Hand Demonstration
       </a><br>
       <u><strong>N. Chen</strong></u> and Y. -J. Pan<sup>†</sup><br>
@@ -47,7 +56,7 @@ author_profile: true
 
 - <p style="line-height: 1.2; margin: 0;">
       <a href="https://usherbrooke.scholaris.ca/items/323aacca-fe55-4968-9385-b506ee9bcbd1"
-         style="text-decoration: none; color: inherit; font-weight: bold;">
+         style="text-decoration: none; color: inherit;">
        Real Time Vision-based Human Hand Motion Tracking and Grasping for a Robotic Manipulator with Soft Hand
       </a><br>
       <u><strong>N. Chen</strong></u>, L. Wan, Q.G. Chen and Y. -J. Pan<sup>†</sup><br>
@@ -56,7 +65,7 @@ author_profile: true
   
 - <p style="line-height: 1.2; margin: 0;">
       <a href="https://ieeexplore.ieee.org/document/10115357"
-         style="text-decoration: none; color: inherit; font-weight: bold;">
+         style="text-decoration: none; color: inherit;">
         Research on the human-following method, fall gesture recognition, and protection method for the walking-aid cane robot
       </a><br>
       <u><strong>N. Chen</strong></u>, X. Chen, C. Chen, Y. Leng and C. Fu<sup>†</sup><br>
