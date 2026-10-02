@@ -55,7 +55,7 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
 <!-- University of Agder -->
 <div style="width:100%; max-width:700px; display:table; line-height:1.6; margin-bottom:10px;">
   <div style="display:table-cell; width:120px; text-align:center; vertical-align:middle;">
-    <img src="/images/uia-logo.png" alt="UiA Logo" style="max-height:70px; height:auto; width:auto;">
+    <img src="/images/uia-logo.jpg" alt="UiA Logo" style="max-height:70px; height:auto; width:auto;">
   </div>
   <div style="display:table-cell; vertical-align:middle;">
     <div style="font-weight:bold; font-size:1.2em;">University of Agder</div>
