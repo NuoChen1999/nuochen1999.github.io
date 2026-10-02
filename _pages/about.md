@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-I'm Nuo Chen (陈诺), a second-year Ph.D. student of Mechanical Engineering at Dalhousie University, where I work on robotics control and machine learning with Professor 
+I'm Nuo Chen (陈诺), a third-year Ph.D. student of Mechanical Engineering at Dalhousie University, where I work on robotics learning and control with Professor 
 <a href="http://acm.me.dal.ca/" style="color: inherit; text-decoration: none;">Ya-Jun Pan</a>. 
 Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanical Engineering and B.Eng degree from Southern University of Science and Technology in Robotics Engineering, advised by Professor 
 <a href="https://www.sustech.edu.cn/en/faculties/fuchenglong.html" style="color: inherit; text-decoration: none;">Chenglong Fu</a>.
@@ -48,6 +48,19 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
     <div style="font-weight: bold; font-size: 1.2em;">Southern University of Science and Technology</div>
     <div>2018.09 - 2022.07</div>
     <div>Bachelor of Engineering, Robotics Engineering</div>
+  </div>
+</div>
+
+## Work Experiences
+<!-- University of Agder -->
+<div style="width:100%; max-width:700px; display:table; line-height:1.6; margin-bottom:10px;">
+  <div style="display:table-cell; width:120px; text-align:center; vertical-align:middle;">
+    <img src="/images/uia-logo.png" alt="UiA Logo" style="max-height:70px; height:auto; width:auto;">
+  </div>
+  <div style="display:table-cell; vertical-align:middle;">
+    <div style="font-weight:bold; font-size:1.2em;">University of Agder</div>
+    <div>2026.08 - 2026.09</div>
+    <div>Visiting Researcher, Robotics and Intelligent Control</div>
   </div>
 </div>
 
