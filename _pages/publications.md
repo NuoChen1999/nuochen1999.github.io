@@ -22,7 +22,7 @@ author_profile: true
 
 ## Conference Papers
 <div style="display: flex; line-height: 1.2; margin-bottom: 10px;">
-  <div style="width: 35px; flex-shrink: 0;">[1]</div>
+  <div style="width: 35px; flex-shrink: 0;">[6]</div>
   <div>
     <a href=""
        style="text-decoration: none; color: inherit;">
@@ -34,7 +34,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; line-height: 1.2; margin-bottom: 10px;">
-  <div style="width: 35px; flex-shrink: 0;">[2]</div>
+  <div style="width: 35px; flex-shrink: 0;">[5]</div>
   <div>
     <a href="https://ieeexplore.ieee.org/document/11221857"
        style="text-decoration: none; color: inherit;">
@@ -46,9 +46,9 @@ author_profile: true
 </div>
 
 <div style="display: flex; line-height: 1.2; margin-bottom: 10px;">
-  <div style="width: 35px; flex-shrink: 0;">[3]</div>
+  <div style="width: 35px; flex-shrink: 0;">[4]</div>
   <div>
-    <a href="https://www.researchgate.net/publication/394010825_Haptic_Robotic_Hand_Design_and_Control_with_Neural-Network_Based_System_Identification"
+    <a href="https://espace2.etsmtl.ca/id/eprint/32370/"
        style="text-decoration: none; color: inherit;">
       Haptic Robotic Hand Design and Control with Neural-Network Based System Identification
     </a><br>
@@ -58,7 +58,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; line-height: 1.2; margin-bottom: 10px;">
-  <div style="width: 35px; flex-shrink: 0;">[4]</div>
+  <div style="width: 35px; flex-shrink: 0;">[3]</div>
   <div>
     <a href="https://ieeexplore.ieee.org/document/10595749"
        style="text-decoration: none; color: inherit;">
@@ -70,7 +70,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; line-height: 1.2; margin-bottom: 10px;">
-  <div style="width: 35px; flex-shrink: 0;">[5]</div>
+  <div style="width: 35px; flex-shrink: 0;">[2]</div>
   <div>
     <a href="https://usherbrooke.scholaris.ca/items/323aacca-fe55-4968-9385-b506ee9bcbd1"
        style="text-decoration: none; color: inherit;">
@@ -82,7 +82,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; line-height: 1.2; margin-bottom: 10px;">
-  <div style="width: 35px; flex-shrink: 0;">[6]</div>
+  <div style="width: 35px; flex-shrink: 0;">[1]</div>
   <div>
     <a href="https://ieeexplore.ieee.org/document/10115357"
        style="text-decoration: none; color: inherit;">
