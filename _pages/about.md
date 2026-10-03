@@ -81,7 +81,7 @@ Prior to that, I received my M.A.Sc degree from Dalhousie University in Mechanic
 - IEEE Annual Conference of the IEEE Industrial Electronics Society (IECON)
 
 ### Chapter Service 
-- Chair of IEEE Industrial Electronics Society (IES) Student Branch Chapter at Dalhousie University
+- Chair of IEEE Industrial Electronics Society Student Branch Chapter at Dalhousie University
 
 - Treasurer of IEEE Industrial Electronics Society Chapter at Canadian Atlantic Section
 
