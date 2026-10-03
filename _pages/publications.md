@@ -7,14 +7,16 @@ author_profile: true
 <p>† denotes the corresponding author. Full publication list is available on <a href="https://scholar.google.ca/citations?user=LAkiYFAAAAAJ&hl=en" style="text-decoration: none; color: inherit;">Google Scholar</a>.</p>
 
 ## Journal Papers
-<div style="line-height: 1.2; margin-bottom: 10px;">
-  [1]
-  <a href="https://ieeexplore.ieee.org/document/10774182"
-     style="text-decoration: none; color: inherit;">
-    Robust and Adaptive Dexterous Manipulation With Vision-Based Learning From Multiple Demonstrations
-  </a><br>
-  <strong>N. Chen</strong>, L. Wan and Y. -J. Pan<sup>†</sup><br>
-  <em>IEEE Transactions on Industrial Electronics</em>, 2025
+<div style="display: flex; line-height: 1.2; margin-bottom: 10px;">
+  <div style="width: 35px;">[1]</div>
+  <div>
+    <a href="https://ieeexplore.ieee.org/document/10774182"
+       style="text-decoration: none; color: inherit;">
+      Robust and Adaptive Dexterous Manipulation With Vision-Based Learning From Multiple Demonstrations
+    </a><br>
+    <strong>N. Chen</strong>, L. Wan and Y. -J. Pan<sup>†</sup><br>
+    <em>IEEE Transactions on Industrial Electronics</em>, 2025
+  </div>
 </div>
 
 
