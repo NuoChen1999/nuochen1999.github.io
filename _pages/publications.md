@@ -7,7 +7,7 @@ author_profile: true
 <p>† denotes the corresponding author. Full publication list is available on <a href="https://scholar.google.ca/citations?user=LAkiYFAAAAAJ&hl=en" style="text-decoration: none; color: inherit;">Google Scholar</a>.</p>
 
 ## Journal Papers
-- <p style="line-height: 1.2; margin: 0;">
+[1] <p style="line-height: 1.2; margin: 0;">
       <a href="https://ieeexplore.ieee.org/document/10774182"
          style="text-decoration: none; color: inherit;">
         Robust and Adaptive Dexterous Manipulation With Vision-Based Learning From Multiple Demonstrations
