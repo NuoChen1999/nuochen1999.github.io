@@ -21,57 +21,75 @@ author_profile: true
 
 
 ## Conference Papers
-- <p style="line-height: 1.2; margin: 0;">
-      <a href=""
-         style="text-decoration: none; color: inherit;">
-       Sensorless Neural-Network-Enhanced Momentum Observer Design and Interaction Force Control
-      </a><br>
-      <strong>N. Chen</strong>, Y. -J. Pan<sup>†</sup> and O. Toker<br>
-      <em>2026 IEEE 35th International Symposium on Industrial Electronics (ISIE)</em>
-  </p>
-  
-- <p style="line-height: 1.2; margin: 0;">
-      <a href="https://ieeexplore.ieee.org/document/11221857"
-         style="text-decoration: none; color: inherit;">
-        Model-Agnostic Meta-Learning Inspired Adaptive Control Framework for Unknown Payload Picking
-      </a><br>
-      <strong>N. Chen</strong> and Y. -J. Pan<sup>†</sup><br>
-      <em>2025 IEEE 51st Annual Conference of the IEEE Industrial Electronics Society (IECON)</em>
-  </p>
-  
-- <p style="line-height: 1.2; margin: 0;">
-      <a href="https://www.researchgate.net/publication/394010825_Haptic_Robotic_Hand_Design_and_Control_with_Neural-Network_Based_System_Identification"
-         style="text-decoration: none; color: inherit;">
-        Haptic Robotic Hand Design and Control with Neural-Network Based System Identification
-      </a><br>
-      <strong>N. Chen</strong> and Y. -J. Pan<sup>†</sup><br>
-      <em>2025 International Congress of Canadian Society of Mechanical Engineering (CSME)</em>
-  </p>
-  
-- <p style="line-height: 1.2; margin: 0;">
-      <a href="https://ieeexplore.ieee.org/document/10595749"
-         style="text-decoration: none; color: inherit;">
-        Vision-Based Dexterous Motion Planning by Dynamic Movement Primitives with Human Hand Demonstration
-      </a><br>
-      <strong>N. Chen</strong> and Y. -J. Pan<sup>†</sup><br>
-      <em>2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)</em>
-  </p>
+<div style="display: flex; line-height: 1.2; margin-bottom: 10px;">
+  <div style="width: 35px; flex-shrink: 0;">[1]</div>
+  <div>
+    <a href=""
+       style="text-decoration: none; color: inherit;">
+      Sensorless Neural-Network-Enhanced Momentum Observer Design and Interaction Force Control
+    </a><br>
+    <strong>N. Chen</strong>, Y. -J. Pan<sup>†</sup> and O. Toker<br>
+    <em>2026 IEEE 35th International Symposium on Industrial Electronics (ISIE)</em>
+  </div>
+</div>
 
-- <p style="line-height: 1.2; margin: 0;">
-      <a href="https://usherbrooke.scholaris.ca/items/323aacca-fe55-4968-9385-b506ee9bcbd1"
-         style="text-decoration: none; color: inherit;">
-       Real Time Vision-based Human Hand Motion Tracking and Grasping for a Robotic Manipulator with Soft Hand
-      </a><br>
-      <strong>N. Chen</strong>, L. Wan, Q.G. Chen and Y. -J. Pan<sup>†</sup><br>
-      <em>2023 International Congress of Canadian Society of Mechanical Engineering (CSME)</em>
-  </p>
-  
-- <p style="line-height: 1.2; margin: 0;">
-      <a href="https://ieeexplore.ieee.org/document/10115357"
-         style="text-decoration: none; color: inherit;">
-        Research on the human-following method, fall gesture recognition, and protection method for the walking-aid cane robot
-      </a><br>
-      <strong>N. Chen</strong>, X. Chen, C. Chen, Y. Leng and C. Fu<sup>†</sup><br>
-      <em>2022 IEEE International Conference on Cyborg and Bionic Systems (CBS)</em>
-  </p>
+<div style="display: flex; line-height: 1.2; margin-bottom: 10px;">
+  <div style="width: 35px; flex-shrink: 0;">[2]</div>
+  <div>
+    <a href="https://ieeexplore.ieee.org/document/11221857"
+       style="text-decoration: none; color: inherit;">
+      Model-Agnostic Meta-Learning Inspired Adaptive Control Framework for Unknown Payload Picking
+    </a><br>
+    <strong>N. Chen</strong> and Y. -J. Pan<sup>†</sup><br>
+    <em>2025 IEEE 51st Annual Conference of the IEEE Industrial Electronics Society (IECON)</em>
+  </div>
+</div>
+
+<div style="display: flex; line-height: 1.2; margin-bottom: 10px;">
+  <div style="width: 35px; flex-shrink: 0;">[3]</div>
+  <div>
+    <a href="https://www.researchgate.net/publication/394010825_Haptic_Robotic_Hand_Design_and_Control_with_Neural-Network_Based_System_Identification"
+       style="text-decoration: none; color: inherit;">
+      Haptic Robotic Hand Design and Control with Neural-Network Based System Identification
+    </a><br>
+    <strong>N. Chen</strong> and Y. -J. Pan<sup>†</sup><br>
+    <em>2025 International Congress of Canadian Society of Mechanical Engineering (CSME)</em>
+  </div>
+</div>
+
+<div style="display: flex; line-height: 1.2; margin-bottom: 10px;">
+  <div style="width: 35px; flex-shrink: 0;">[4]</div>
+  <div>
+    <a href="https://ieeexplore.ieee.org/document/10595749"
+       style="text-decoration: none; color: inherit;">
+      Vision-Based Dexterous Motion Planning by Dynamic Movement Primitives with Human Hand Demonstration
+    </a><br>
+    <strong>N. Chen</strong> and Y. -J. Pan<sup>†</sup><br>
+    <em>2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)</em>
+  </div>
+</div>
+
+<div style="display: flex; line-height: 1.2; margin-bottom: 10px;">
+  <div style="width: 35px; flex-shrink: 0;">[5]</div>
+  <div>
+    <a href="https://usherbrooke.scholaris.ca/items/323aacca-fe55-4968-9385-b506ee9bcbd1"
+       style="text-decoration: none; color: inherit;">
+      Real Time Vision-based Human Hand Motion Tracking and Grasping for a Robotic Manipulator with Soft Hand
+    </a><br>
+    <strong>N. Chen</strong>, L. Wan, Q.G. Chen and Y. -J. Pan<sup>†</sup><br>
+    <em>2023 International Congress of Canadian Society of Mechanical Engineering (CSME)</em>
+  </div>
+</div>
+
+<div style="display: flex; line-height: 1.2; margin-bottom: 10px;">
+  <div style="width: 35px; flex-shrink: 0;">[6]</div>
+  <div>
+    <a href="https://ieeexplore.ieee.org/document/10115357"
+       style="text-decoration: none; color: inherit;">
+      Research on the human-following method, fall gesture recognition, and protection method for the walking-aid cane robot
+    </a><br>
+    <strong>N. Chen</strong>, X. Chen, C. Chen, Y. Leng and C. Fu<sup>†</sup><br>
+    <em>2022 IEEE International Conference on Cyborg and Bionic Systems (CBS)</em>
+  </div>
+</div>
 
