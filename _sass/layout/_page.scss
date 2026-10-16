@@ -48,12 +48,13 @@
   font-size: $type-size-4;
 }
 
-.page__content {
+.page__content h2,
+.archive > h2 {
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid var(--global-border-color);
+}
 
-  h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid var(--global-border-color);
-  }
+.page__content {
 
   p, li, dl {
     font-size: 1em;

@@ -9,7 +9,7 @@ author_profile: true
 ## Session Chair
 - IEEE Annual Conference of the IEEE Industrial Electronics Society (IECON)
 
-## IES Service 
+## Industrial Electronics Society Service 
 - Chair of IEEE Industrial Electronics Society Student Branch Chapter at Dalhousie University
 
 - Treasurer of IEEE Industrial Electronics Society Chapter at Canadian Atlantic Section
