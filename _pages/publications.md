@@ -86,7 +86,7 @@ author_profile: true
   <div>
     <a href="https://ieeexplore.ieee.org/document/10115357"
        style="text-decoration: none; color: inherit;">
-      Research on the human-following method, fall gesture recognition, and protection method for the walking-aid cane robot
+      Research on the human-following method, fall gesture recognition, and protection method for the walking-aid robot
     </a><br>
     <strong>N. Chen</strong>, X. Chen, C. Chen, Y. Leng and C. Fu<sup>†</sup><br>
     <em>2022 IEEE International Conference on Cyborg and Bionic Systems (CBS)</em>
