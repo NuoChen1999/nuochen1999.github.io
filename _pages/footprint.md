@@ -8,6 +8,7 @@ author_profile: true
 <link rel="stylesheet" href="{{ '/assets/css/footprint.css' | relative_url }}?v={{ footprint_version }}">
 <div class="footprint" id="footprint" data-world-url="{{ '/assets/data/footprint-world.json' | relative_url }}?v={{ footprint_version }}">
   <svg id="footprint-globe" viewBox="0 0 640 600" role="group" aria-label="Visited countries. Drag to rotate, use arrow keys to turn, plus and minus to zoom. Select a highlighted country to see cities and visit years." tabindex="0"></svg>
+  <div id="footprint-tooltip" class="footprint__tooltip" role="tooltip" hidden></div>
   <p id="footprint-status" role="status">Loading the globe…</p>
   <section class="footprint__details" id="footprint-details" aria-labelledby="footprint-country" hidden>
     <button type="button" id="footprint-close" aria-label="Close country details">×</button>

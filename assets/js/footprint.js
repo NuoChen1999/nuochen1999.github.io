@@ -8,6 +8,7 @@
   const heading = document.getElementById('footprint-country');
   const visits = document.getElementById('footprint-visits');
   const close = document.getElementById('footprint-close');
+  const tooltip = document.getElementById('footprint-tooltip');
   async function init() {
     if (!window.d3 || !window.topojson) throw new Error('Globe libraries unavailable');
     const places = JSON.parse(document.getElementById('footprint-data').textContent);
@@ -16,6 +17,20 @@
     const world = await response.json();
     const d3 = window.d3;
     const groups = d3.group(places, p => p.countryId);
+    const flags = { '124': '🇨🇦', '840': '🇺🇸', '724': '🇪🇸', '826': '🇬🇧', '360': '🇮🇩', '643': '🇷🇺', '214': '🇩🇴', '578': '🇳🇴', '756': '🇨🇭', '528': '🇳🇱', '156': '🇨🇳' };
+    const countryLabel = id => `${flags[id] || ''} ${groups.get(id)[0].country}`.trim();
+    function hideTooltip() { tooltip.hidden = true; }
+    function showTooltip(event, id) {
+      if (!groups.has(id) || !details.hidden) return;
+      tooltip.textContent = countryLabel(id);
+      tooltip.hidden = false;
+      const bounds = root.getBoundingClientRect();
+      const target = event.currentTarget.getBoundingClientRect();
+      const x = event.clientX ?? target.left + target.width / 2;
+      const y = event.clientY ?? target.top + target.height / 2;
+      tooltip.style.left = `${Math.max(8, Math.min(x - bounds.left + 12, bounds.width - tooltip.offsetWidth - 8))}px`;
+      tooltip.style.top = `${Math.max(8, Math.min(y - bounds.top - tooltip.offsetHeight - 12, bounds.height - tooltip.offsetHeight - 8))}px`;
+    }
     // Match atlas polygons to the country grouping used by the travel data.
     const groupId = feature => String(feature.id).padStart(3, '0') === '158' ? '156' : String(feature.id).padStart(3, '0');
     const svg = d3.select('#footprint-globe');
@@ -27,7 +42,7 @@
       .attr('class', f => `fp-country${groups.has(groupId(f)) ? ' is-visited' : ''}`)
       .attr('role', f => groups.has(groupId(f)) ? 'button' : null)
       .attr('aria-label', f => groups.has(groupId(f)) ? `Show visits in ${groups.get(groupId(f))[0].country}` : null);
-    countries.append('title').text(f => groups.has(groupId(f)) ? groups.get(groupId(f))[0].country : f.properties.name);
+    countries.filter(f => !groups.has(groupId(f))).append('title').text(f => f.properties.name);
     const markers = svg.append('g').selectAll('circle').data(places).join('circle').attr('class', 'fp-marker').attr('r', 2.5);
     markers.append('title').text(p => `${p.name} · ${p.years}`);
     let selected = null;
@@ -42,8 +57,9 @@
     }
     function showCountry(id, trigger) {
       if (!groups.has(id)) return;
+      hideTooltip();
       selected = id; returnFocus = trigger;
-      heading.textContent = groups.get(id)[0].country;
+      heading.textContent = countryLabel(id);
       visits.replaceChildren();
       [...groups.get(id)].sort((a, b) => a.years.localeCompare(b.years) || a.name.localeCompare(b.name)).forEach(place => {
         const row = document.createElement('li');
@@ -58,16 +74,24 @@
       (returnFocus || svg.node()).focus({ preventScroll: true });
     }
     close.addEventListener('click', hideDetails);
-    countries.on('click', (event, feature) => { if (groups.has(groupId(feature))) { event.stopPropagation(); showCountry(groupId(feature), event.currentTarget); } })
+    countries.on('pointerenter', (event, feature) => showTooltip(event, groupId(feature)))
+      .on('pointermove', (event, feature) => showTooltip(event, groupId(feature)))
+      .on('pointerleave', hideTooltip)
+      .on('focus', (event, feature) => showTooltip(event, groupId(feature)))
+      .on('blur', hideTooltip)
+      .on('click', (event, feature) => { if (groups.has(groupId(feature))) { event.stopPropagation(); showCountry(groupId(feature), event.currentTarget); } })
       .on('keydown', (event, feature) => {
         if (groups.has(groupId(feature)) && (event.key === 'Enter' || event.key === ' ')) { event.preventDefault(); event.stopPropagation(); showCountry(groupId(feature), event.currentTarget); }
       });
-    markers.on('click', (event, place) => { event.stopPropagation(); showCountry(place.countryId, svg.node()); });
-    svg.call(d3.drag().on('drag', event => {
+    markers.on('pointerenter', (event, place) => showTooltip(event, place.countryId))
+      .on('pointermove', (event, place) => showTooltip(event, place.countryId))
+      .on('pointerleave', hideTooltip)
+      .on('click', (event, place) => { event.stopPropagation(); showCountry(place.countryId, svg.node()); });
+    svg.call(d3.drag().on('start', hideTooltip).on('drag', event => {
       const r = projection.rotate(); const speed = 65 / projection.scale();
       projection.rotate([r[0] + event.dx * speed, Math.max(-85, Math.min(85, r[1] - event.dy * speed)), 0]); draw();
     }));
-    svg.on('wheel', event => { event.preventDefault(); projection.scale(Math.max(200, Math.min(580, projection.scale() * Math.exp(-event.deltaY * .001)))); draw(); }, { passive: false });
+    svg.on('wheel', event => { hideTooltip(); event.preventDefault(); projection.scale(Math.max(200, Math.min(580, projection.scale() * Math.exp(-event.deltaY * .001)))); draw(); }, { passive: false });
     svg.on('keydown', event => {
       const r = projection.rotate();
       if (event.key === 'ArrowLeft') r[0] -= 12;
