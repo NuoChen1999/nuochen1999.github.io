@@ -4,4 +4,4 @@
 - D3 7.9.0 and topojson-client 3.1.0 are served from `assets/js/lib/`, with their ISC licenses alongside them.
 - Visited places are stored in `_data/footprint.json`. Names and coordinates were imported from the existing public Google My Maps KML on 2026-11-19: https://www.google.com/maps/d/kml?mid=1CCrwMqOjRP27GkbI51z7hSaEk2VdpjE&forcekml=1
 
-The city list is a static snapshot, not a live Google Maps connection. Add or edit entries in `_data/footprint.json` using `name`, `lat`, and `lon`. The page generates the count, list, and globe markers from that single data source.
+The city list is a static snapshot, not a live Google Maps connection. Add or edit entries in `_data/footprint.json` using `name`, `lat`, `lon`, `years`, `countryId` (three-digit atlas ID), and `country`. Years are copied verbatim from the map descriptions. The globe generates country highlighting and click-to-open city/year details from that single data source.

@@ -2,246 +2,393 @@
   {
     "name": "Toronto",
     "lat": 43.653226,
-    "lon": -79.3831843
+    "lon": -79.3831843,
+    "years": "2024",
+    "countryId": "124",
+    "country": "Canada"
   },
   {
     "name": "Halifax",
     "lat": 44.6508608,
-    "lon": -63.5923256
+    "lon": -63.5923256,
+    "years": "2022",
+    "countryId": "124",
+    "country": "Canada"
   },
   {
     "name": "Charlottetown",
     "lat": 46.23824,
-    "lon": -63.1310704
+    "lon": -63.1310704,
+    "years": "2024",
+    "countryId": "124",
+    "country": "Canada"
   },
   {
     "name": "Montreal",
     "lat": 45.5018869,
-    "lon": -73.5673919
+    "lon": -73.5673919,
+    "years": "2023",
+    "countryId": "124",
+    "country": "Canada"
   },
   {
     "name": "Madrid",
     "lat": 40.4167279,
-    "lon": -3.7032905
+    "lon": -3.7032905,
+    "years": "2025",
+    "countryId": "724",
+    "country": "Spain"
   },
   {
     "name": "London",
     "lat": 51.5072178,
-    "lon": -0.1275862
+    "lon": -0.1275862,
+    "years": "2013",
+    "countryId": "826",
+    "country": "United Kingdom"
   },
   {
     "name": "Bali",
     "lat": -8.4095178,
-    "lon": 115.188916
+    "lon": 115.188916,
+    "years": "2016",
+    "countryId": "360",
+    "country": "Indonesia"
   },
   {
     "name": "Moscow",
     "lat": 55.7568721,
-    "lon": 37.6150527
+    "lon": 37.6150527,
+    "years": "2019",
+    "countryId": "643",
+    "country": "Russia"
   },
   {
     "name": "Saint Petersburg",
     "lat": 59.9310584,
-    "lon": 30.3609097
+    "lon": 30.3609097,
+    "years": "2019",
+    "countryId": "643",
+    "country": "Russia"
   },
   {
     "name": "Punta Cana",
     "lat": 18.5600761,
-    "lon": -68.372535
+    "lon": -68.372535,
+    "years": "2024",
+    "countryId": "214",
+    "country": "Dominican Republic"
   },
   {
     "name": "Calgary",
     "lat": 51.0447331,
-    "lon": -114.0718831
+    "lon": -114.0718831,
+    "years": "2024",
+    "countryId": "124",
+    "country": "Canada"
   },
   {
     "name": "Banff",
     "lat": 51.1784304,
-    "lon": -115.5707903
+    "lon": -115.5707903,
+    "years": "2024",
+    "countryId": "124",
+    "country": "Canada"
   },
   {
     "name": "Lunenburg",
     "lat": 44.377979,
-    "lon": -64.3144311
+    "lon": -64.3144311,
+    "years": "2024",
+    "countryId": "124",
+    "country": "Canada"
   },
   {
     "name": "Sherbrooke",
     "lat": 45.4042669,
-    "lon": -71.893674
+    "lon": -71.893674,
+    "years": "2023",
+    "countryId": "124",
+    "country": "Canada"
   },
   {
     "name": "Boston",
     "lat": 42.3555076,
-    "lon": -71.0565364
+    "lon": -71.0565364,
+    "years": "2026",
+    "countryId": "840",
+    "country": "United States"
   },
   {
     "name": "New York",
     "lat": 40.7127753,
-    "lon": -74.0059728
+    "lon": -74.0059728,
+    "years": "2026",
+    "countryId": "840",
+    "country": "United States"
   },
   {
     "name": "Ottawa",
     "lat": 45.4200572,
-    "lon": -75.7003397
+    "lon": -75.7003397,
+    "years": "2026",
+    "countryId": "124",
+    "country": "Canada"
   },
   {
     "name": "Kristiansand",
     "lat": 58.1599119,
-    "lon": 8.0182064
+    "lon": 8.0182064,
+    "years": "2026",
+    "countryId": "578",
+    "country": "Norway"
   },
   {
     "name": "Oslo",
     "lat": 59.9121746,
-    "lon": 10.7312704
+    "lon": 10.7312704,
+    "years": "2026",
+    "countryId": "578",
+    "country": "Norway"
   },
   {
     "name": "Geneva",
     "lat": 46.2043907,
-    "lon": 6.1431577
+    "lon": 6.1431577,
+    "years": "2026",
+    "countryId": "756",
+    "country": "Switzerland"
   },
   {
     "name": "Lausanne",
     "lat": 46.5196535,
-    "lon": 6.6322734
+    "lon": 6.6322734,
+    "years": "2026",
+    "countryId": "756",
+    "country": "Switzerland"
   },
   {
     "name": "Amsterdam",
     "lat": 52.3675734,
-    "lon": 4.9041389
+    "lon": 4.9041389,
+    "years": "2026",
+    "countryId": "528",
+    "country": "Netherlands"
   },
   {
     "name": "Fuzhou",
     "lat": 26.0742099,
-    "lon": 119.29647
+    "lon": 119.29647,
+    "years": "1999",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Shenzhen",
     "lat": 22.5428599,
-    "lon": 114.05956
+    "lon": 114.05956,
+    "years": "2018",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Beijing",
     "lat": 39.904211,
-    "lon": 116.407395
+    "lon": 116.407395,
+    "years": "2010",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Shanghai",
     "lat": 31.230416,
-    "lon": 121.473701
+    "lon": 121.473701,
+    "years": "2010",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Tianjin",
     "lat": 39.085099,
-    "lon": 117.199369
+    "lon": 117.199369,
+    "years": "2019",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Taipei City",
     "lat": 25.0329636,
-    "lon": 121.5654268
+    "lon": 121.5654268,
+    "years": "2009",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Chengdu",
     "lat": 30.5722599,
-    "lon": 104.0665099
+    "lon": 104.0665099,
+    "years": "2019",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Chongqing",
     "lat": 29.5656843,
-    "lon": 106.5511838
+    "lon": 106.5511838,
+    "years": "2019",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Yadingcun",
     "lat": 28.45496,
-    "lon": 100.33986
+    "lon": 100.33986,
+    "years": "2022",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Hong Kong",
     "lat": 22.3193039,
-    "lon": 114.1693611
+    "lon": 114.1693611,
+    "years": "2018",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Macao",
     "lat": 22.198745,
-    "lon": 113.543873
+    "lon": 113.543873,
+    "years": "2018",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Guangzhou",
     "lat": 23.1290799,
-    "lon": 113.26436
+    "lon": 113.26436,
+    "years": "2019",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Xiamen",
     "lat": 24.4795099,
-    "lon": 118.0894799
+    "lon": 118.0894799,
+    "years": "2018",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Nanping",
     "lat": 26.6414099,
-    "lon": 118.17792
+    "lon": 118.17792,
+    "years": "2000",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Quanzhou",
     "lat": 24.8740499,
-    "lon": 118.67583
+    "lon": 118.67583,
+    "years": "2005",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Hangzhou",
     "lat": 30.2741499,
-    "lon": 120.15515
+    "lon": 120.15515,
+    "years": "2023",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Suzhou",
     "lat": 31.2983399,
-    "lon": 120.58319
+    "lon": 120.58319,
+    "years": "2023",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Changsha",
     "lat": 28.2277799,
-    "lon": 112.93886
+    "lon": 112.93886,
+    "years": "2018",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Wuhan",
     "lat": 30.5927599,
-    "lon": 114.30525
+    "lon": 114.30525,
+    "years": "2022",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Quzhou",
     "lat": 28.9359199,
-    "lon": 118.87419
+    "lon": 118.87419,
+    "years": "2017",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Shantou",
     "lat": 23.3534999,
-    "lon": 116.68221
+    "lon": 116.68221,
+    "years": "2018",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Guiyang",
     "lat": 26.6475899,
-    "lon": 106.63019
+    "lon": 106.63019,
+    "years": "2015",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Nanchang",
     "lat": 28.6820199,
-    "lon": 115.8579399
+    "lon": 115.8579399,
+    "years": "2018",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Huangshan City",
     "lat": 29.7151699,
-    "lon": 118.33866
+    "lon": 118.33866,
+    "years": "2008",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Jiujiang",
     "lat": 29.6605799,
-    "lon": 115.9541
+    "lon": 115.9541,
+    "years": "2010",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Nanjing",
     "lat": 32.0583799,
-    "lon": 118.79647
+    "lon": 118.79647,
+    "years": "2013",
+    "countryId": "156",
+    "country": "China"
   },
   {
     "name": "Taizhou",
     "lat": 28.6561099,
-    "lon": 121.42056
+    "lon": 121.42056,
+    "years": "2026",
+    "countryId": "156",
+    "country": "China"
   }
 ]
