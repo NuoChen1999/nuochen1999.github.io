@@ -43,7 +43,8 @@
       .attr('role', f => groups.has(groupId(f)) ? 'button' : null)
       .attr('aria-label', f => groups.has(groupId(f)) ? `Show visits in ${groups.get(groupId(f))[0].country}` : null);
     countries.filter(f => !groups.has(groupId(f))).append('title').text(f => f.properties.name);
-    const markers = svg.append('g').selectAll('circle').data(places).join('circle').attr('class', 'fp-marker').attr('r', 2.5);
+    const markers = svg.append('g').selectAll('polygon').data(places).join('polygon')
+      .attr('class', 'fp-marker').attr('points', '0,-3.5 2.5,0 0,3.5 -2.5,0');
     markers.append('title').text(p => `${p.name} · ${p.years}`);
     let selected = null;
     let returnFocus = null;
@@ -53,7 +54,10 @@
       countries.attr('tabindex', f => groups.has(groupId(f)) && path.area(f) > 1 ? 0 : -1)
         .attr('aria-pressed', f => groups.has(groupId(f)) ? String(groupId(f) === selected) : null)
         .classed('is-selected', f => groupId(f) === selected);
-      markers.attr('cx', p => projection([p.lon, p.lat])[0]).attr('cy', p => projection([p.lon, p.lat])[1]).attr('display', p => visible(p) ? null : 'none');
+      markers.attr('transform', p => `translate(${projection([p.lon, p.lat]).join(',')})`)
+        .attr('display', p => visible(p) ? null : 'none')
+        .classed('is-active', p => p.countryId === selected)
+        .classed('is-muted', p => selected !== null && p.countryId !== selected);
     }
     function showCountry(id, trigger) {
       if (!groups.has(id)) return;
