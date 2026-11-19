@@ -87,7 +87,8 @@
       .on('pointermove', (event, place) => showTooltip(event, place.countryId))
       .on('pointerleave', hideTooltip)
       .on('click', (event, place) => { event.stopPropagation(); showCountry(place.countryId, svg.node()); });
-    svg.call(d3.drag().on('start', hideTooltip).on('drag', event => {
+    let dragging = false;
+    svg.call(d3.drag().on('start', () => { dragging = true; hideTooltip(); }).on('end', () => { dragging = false; }).on('drag', event => {
       const r = projection.rotate(); const speed = 65 / projection.scale();
       projection.rotate([r[0] + event.dx * speed, Math.max(-85, Math.min(85, r[1] - event.dy * speed)), 0]); draw();
     }));
@@ -104,7 +105,39 @@
       event.preventDefault(); projection.rotate(r); draw();
     });
     root.addEventListener('keydown', event => { if (event.key === 'Escape' && !details.hidden) { event.stopPropagation(); hideDetails(); } });
-    status.hidden = true; draw();
+    // Rotate gently without moving targets while a visitor is interacting.
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+    let hovering = root.matches(':hover');
+    let inView = true;
+    let rotationTimer = null;
+    root.addEventListener('pointerenter', event => { if (event.pointerType !== 'touch') hovering = true; });
+    root.addEventListener('pointerleave', () => { hovering = false; });
+    root.addEventListener('pointercancel', () => { hovering = false; });
+    if ('IntersectionObserver' in window) {
+      const observer = new IntersectionObserver(entries => { inView = entries[0].isIntersecting; });
+      observer.observe(root);
+    }
+    function stopRotation() {
+      if (rotationTimer) rotationTimer.stop();
+      rotationTimer = null;
+    }
+    function startRotation() {
+      stopRotation();
+      if (reducedMotion.matches) return;
+      let previous = 0;
+      rotationTimer = d3.timer(elapsed => {
+        const delta = Math.min(elapsed - previous, 50);
+        previous = elapsed;
+        if (document.hidden || !inView || hovering || dragging || !details.hidden || root.querySelector(':focus-visible')) return;
+        const rotation = projection.rotate();
+        projection.rotate([rotation[0] + delta * .004, rotation[1], rotation[2]]);
+        draw();
+      });
+    }
+    reducedMotion.addEventListener('change', startRotation);
+    window.addEventListener('pagehide', stopRotation);
+    window.addEventListener('pageshow', startRotation);
+    status.hidden = true; draw(); startRotation();
   }
   init().catch(error => { status.textContent = 'The globe could not load. Please refresh to try again.'; console.error('Footprint:', error); });
 })();
