@@ -8,7 +8,7 @@
   --fp-marker-edge: #2c639b;
   position: relative;
   margin: .5rem auto 1.5rem;
-  max-width: 520px;
+  max-width: 640px;
   background: transparent;
 }
 html[data-theme="dark"] .footprint {
@@ -19,7 +19,7 @@ html[data-theme="dark"] .footprint {
   --fp-marker: #e0f3ff;
   --fp-marker-edge: #244d77;
 }
-#footprint-globe { display: block; width: 100%; height: auto; overflow: visible; cursor: grab; touch-action: pan-y; }
+#footprint-globe { display: block; width: 100%; height: auto; overflow: hidden; cursor: grab; touch-action: pan-y; }
 #footprint-globe:active { cursor: grabbing; }
 .fp-ocean { fill: var(--fp-ocean); stroke: var(--fp-line); stroke-width: .8; }
 .fp-grid { fill: none; stroke: var(--fp-line); stroke-width: .5; opacity: .3; pointer-events: none; }

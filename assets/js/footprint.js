@@ -34,6 +34,8 @@
     // Match atlas polygons to the country grouping used by the travel data.
     const groupId = feature => String(feature.id).padStart(3, '0') === '158' ? '156' : String(feature.id).padStart(3, '0');
     const svg = d3.select('#footprint-globe');
+    const minScale = 200;
+    const maxScale = 2600; // 10× the initial globe, clipped to the SVG viewport.
     const projection = d3.geoOrthographic().translate([320, 300]).scale(260).rotate([-15, -25, 0]).clipAngle(90);
     const path = d3.geoPath(projection);
     svg.append('path').datum({ type: 'Sphere' }).attr('class', 'fp-ocean');
@@ -96,15 +98,15 @@
       const r = projection.rotate(); const speed = 65 / projection.scale();
       projection.rotate([r[0] + event.dx * speed, Math.max(-85, Math.min(85, r[1] - event.dy * speed)), 0]); draw();
     }));
-    svg.on('wheel', event => { hideTooltip(); event.preventDefault(); projection.scale(Math.max(200, Math.min(580, projection.scale() * Math.exp(-event.deltaY * .001)))); draw(); }, { passive: false });
+    svg.on('wheel', event => { hideTooltip(); event.preventDefault(); projection.scale(Math.max(minScale, Math.min(maxScale, projection.scale() * Math.exp(-event.deltaY * .001)))); draw(); }, { passive: false });
     svg.on('keydown', event => {
       const r = projection.rotate();
       if (event.key === 'ArrowLeft') r[0] -= 12;
       else if (event.key === 'ArrowRight') r[0] += 12;
       else if (event.key === 'ArrowUp') r[1] = Math.min(85, r[1] + 12);
       else if (event.key === 'ArrowDown') r[1] = Math.max(-85, r[1] - 12);
-      else if (event.key === '+' || event.key === '=') projection.scale(Math.min(580, projection.scale() * 1.15));
-      else if (event.key === '-') projection.scale(Math.max(200, projection.scale() / 1.15));
+      else if (event.key === '+' || event.key === '=') projection.scale(Math.min(maxScale, projection.scale() * 1.15));
+      else if (event.key === '-') projection.scale(Math.max(minScale, projection.scale() / 1.15));
       else return;
       event.preventDefault(); projection.rotate(r); draw();
     });
