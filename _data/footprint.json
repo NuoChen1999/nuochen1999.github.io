@@ -1,0 +1,247 @@
+[
+  {
+    "name": "Toronto",
+    "lat": 43.653226,
+    "lon": -79.3831843
+  },
+  {
+    "name": "Halifax",
+    "lat": 44.6508608,
+    "lon": -63.5923256
+  },
+  {
+    "name": "Charlottetown",
+    "lat": 46.23824,
+    "lon": -63.1310704
+  },
+  {
+    "name": "Montreal",
+    "lat": 45.5018869,
+    "lon": -73.5673919
+  },
+  {
+    "name": "Madrid",
+    "lat": 40.4167279,
+    "lon": -3.7032905
+  },
+  {
+    "name": "London",
+    "lat": 51.5072178,
+    "lon": -0.1275862
+  },
+  {
+    "name": "Bali",
+    "lat": -8.4095178,
+    "lon": 115.188916
+  },
+  {
+    "name": "Moscow",
+    "lat": 55.7568721,
+    "lon": 37.6150527
+  },
+  {
+    "name": "Saint Petersburg",
+    "lat": 59.9310584,
+    "lon": 30.3609097
+  },
+  {
+    "name": "Punta Cana",
+    "lat": 18.5600761,
+    "lon": -68.372535
+  },
+  {
+    "name": "Calgary",
+    "lat": 51.0447331,
+    "lon": -114.0718831
+  },
+  {
+    "name": "Banff",
+    "lat": 51.1784304,
+    "lon": -115.5707903
+  },
+  {
+    "name": "Lunenburg",
+    "lat": 44.377979,
+    "lon": -64.3144311
+  },
+  {
+    "name": "Sherbrooke",
+    "lat": 45.4042669,
+    "lon": -71.893674
+  },
+  {
+    "name": "Boston",
+    "lat": 42.3555076,
+    "lon": -71.0565364
+  },
+  {
+    "name": "New York",
+    "lat": 40.7127753,
+    "lon": -74.0059728
+  },
+  {
+    "name": "Ottawa",
+    "lat": 45.4200572,
+    "lon": -75.7003397
+  },
+  {
+    "name": "Kristiansand",
+    "lat": 58.1599119,
+    "lon": 8.0182064
+  },
+  {
+    "name": "Oslo",
+    "lat": 59.9121746,
+    "lon": 10.7312704
+  },
+  {
+    "name": "Geneva",
+    "lat": 46.2043907,
+    "lon": 6.1431577
+  },
+  {
+    "name": "Lausanne",
+    "lat": 46.5196535,
+    "lon": 6.6322734
+  },
+  {
+    "name": "Amsterdam",
+    "lat": 52.3675734,
+    "lon": 4.9041389
+  },
+  {
+    "name": "Fuzhou",
+    "lat": 26.0742099,
+    "lon": 119.29647
+  },
+  {
+    "name": "Shenzhen",
+    "lat": 22.5428599,
+    "lon": 114.05956
+  },
+  {
+    "name": "Beijing",
+    "lat": 39.904211,
+    "lon": 116.407395
+  },
+  {
+    "name": "Shanghai",
+    "lat": 31.230416,
+    "lon": 121.473701
+  },
+  {
+    "name": "Tianjin",
+    "lat": 39.085099,
+    "lon": 117.199369
+  },
+  {
+    "name": "Taipei City",
+    "lat": 25.0329636,
+    "lon": 121.5654268
+  },
+  {
+    "name": "Chengdu",
+    "lat": 30.5722599,
+    "lon": 104.0665099
+  },
+  {
+    "name": "Chongqing",
+    "lat": 29.5656843,
+    "lon": 106.5511838
+  },
+  {
+    "name": "Yadingcun",
+    "lat": 28.45496,
+    "lon": 100.33986
+  },
+  {
+    "name": "Hong Kong",
+    "lat": 22.3193039,
+    "lon": 114.1693611
+  },
+  {
+    "name": "Macao",
+    "lat": 22.198745,
+    "lon": 113.543873
+  },
+  {
+    "name": "Guangzhou",
+    "lat": 23.1290799,
+    "lon": 113.26436
+  },
+  {
+    "name": "Xiamen",
+    "lat": 24.4795099,
+    "lon": 118.0894799
+  },
+  {
+    "name": "Nanping",
+    "lat": 26.6414099,
+    "lon": 118.17792
+  },
+  {
+    "name": "Quanzhou",
+    "lat": 24.8740499,
+    "lon": 118.67583
+  },
+  {
+    "name": "Hangzhou",
+    "lat": 30.2741499,
+    "lon": 120.15515
+  },
+  {
+    "name": "Suzhou",
+    "lat": 31.2983399,
+    "lon": 120.58319
+  },
+  {
+    "name": "Changsha",
+    "lat": 28.2277799,
+    "lon": 112.93886
+  },
+  {
+    "name": "Wuhan",
+    "lat": 30.5927599,
+    "lon": 114.30525
+  },
+  {
+    "name": "Quzhou",
+    "lat": 28.9359199,
+    "lon": 118.87419
+  },
+  {
+    "name": "Shantou",
+    "lat": 23.3534999,
+    "lon": 116.68221
+  },
+  {
+    "name": "Guiyang",
+    "lat": 26.6475899,
+    "lon": 106.63019
+  },
+  {
+    "name": "Nanchang",
+    "lat": 28.6820199,
+    "lon": 115.8579399
+  },
+  {
+    "name": "Huangshan City",
+    "lat": 29.7151699,
+    "lon": 118.33866
+  },
+  {
+    "name": "Jiujiang",
+    "lat": 29.6605799,
+    "lon": 115.9541
+  },
+  {
+    "name": "Nanjing",
+    "lat": 32.0583799,
+    "lon": 118.79647
+  },
+  {
+    "name": "Taizhou",
+    "lat": 28.6561099,
+    "lon": 121.42056
+  }
+]

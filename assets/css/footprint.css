@@ -1,0 +1,41 @@
+.footprint {
+  --fp-gold: #f5c780;
+  position: relative;
+  overflow: hidden;
+  margin: 1.6rem 0 1.8rem;
+  color: #e5eef5;
+  background: radial-gradient(ellipse at 45% 38%, #19394d 0, #0d2031 48%, #081421 100%);
+  border: 1px solid #294456;
+  border-radius: 18px;
+  box-shadow: 0 16px 40px #08142118;
+}
+.footprint__topline { display: flex; justify-content: space-between; flex-wrap: wrap; gap: .5rem; padding: 1.2rem 1.4rem 0; font-size: .875rem; letter-spacing: .12em; color: #b8ccd9; }
+.footprint__topline span:last-child { color: var(--fp-gold); letter-spacing: .02em; }
+.footprint__stage { position: relative; }
+#footprint-globe { display: block; width: 100%; height: auto; cursor: grab; touch-action: pan-y; }
+#footprint-globe:active { cursor: grabbing; }
+#footprint-globe circle.fp-marker { cursor: pointer; }
+.footprint__loading { position: absolute; top: 40%; left: 10%; right: 10%; text-align: center; color: #e5eef5; }
+.footprint__selection { position: absolute; left: 1.4rem; bottom: 1rem; display: flex; flex-direction: column; pointer-events: none; text-shadow: 0 2px 8px #081421; }
+.footprint__selection span { font-size: .875rem; color: #b8ccd9; letter-spacing: .04em; }
+.footprint__selection strong { font-size: 1.35rem; font-weight: 500; color: #fff; }
+.footprint__toolbar { display: flex; align-items: center; justify-content: flex-end; flex-wrap: wrap; gap: .4rem; padding: .9rem 1.1rem; border-top: 1px solid #ffffff16; }
+.footprint__hint { margin-right: auto; font-size: .875rem; color: #b8ccd9; }
+.footprint button { border: 1px solid #567084; color: #e5eef5; background: #ffffff08; border-radius: 7px; padding: .45rem .65rem; font: inherit; font-size: .875rem; min-height: 36px; cursor: pointer; }
+.footprint button:hover, .footprint button[aria-pressed="true"] { border-color: var(--fp-gold); color: var(--fp-gold); background: #f5c78012; }
+.footprint button:disabled { opacity: .4; cursor: default; }
+.footprint button:focus-visible, .footprint-places button:focus-visible, #footprint-search:focus-visible { outline: 3px solid #d49a49; outline-offset: 3px; }
+.footprint-places label { display: block; font-size: .9rem; font-weight: 600; margin-bottom: .5rem; }
+#footprint-search { width: 100%; padding: .7rem .85rem; border: 1px solid var(--global-border-color, #c8cdd1); border-radius: 8px; background: var(--global-bg-color, #fff); color: var(--global-text-color, #333); font: inherit; font-size: .875rem; }
+.footprint-places__list { display: flex; flex-wrap: wrap; gap: .45rem; list-style: none; padding: 0 !important; margin: .9rem 0 !important; }
+.footprint-places__list li { margin: 0; padding: 0; }
+.footprint-places__list button { padding: .45rem .7rem; border: 1px solid var(--global-border-color, #c8cdd1); border-radius: 6px; color: var(--global-text-color, #333); background: transparent; font: inherit; font-size: .875rem; cursor: pointer; min-height: 36px; }
+.footprint-places__list button:hover, .footprint-places__list button[aria-pressed="true"] { background: #b47a2315; border-color: #b47a23; }
+.footprint [hidden], .footprint-places [hidden] { display: none !important; }
+@media (max-width: 480px) {
+  .footprint__topline { padding: 1rem 1rem 0; font-size: .875rem; }
+  .footprint__selection { left: 1rem; bottom: .4rem; }
+  .footprint__selection strong { font-size: 1.1rem; }
+  .footprint__hint { flex-basis: 100%; margin-bottom: .4rem; }
+  .footprint__toolbar { justify-content: flex-start; }
+}
